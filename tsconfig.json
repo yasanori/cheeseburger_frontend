@@ -17,8 +17,8 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "paths": {
-      "@aboutMe/src/*": ["src/*"],
-      "@aboutMe/components/*": ["src/components/*"]
+      "@cheeseburger/src/*": ["src/*"],
+      "@cheeseburger/components/*": ["src/components/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src"],

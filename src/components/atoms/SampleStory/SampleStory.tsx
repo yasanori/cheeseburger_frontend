@@ -4,7 +4,7 @@ import styled from "styled-components";
 export default function SampleStory({}) {
   return (
     <ColorBox>
-      <Title>hey. hello.</Title>
+      <Title>hey. hello!</Title>
     </ColorBox>
   );
 }
